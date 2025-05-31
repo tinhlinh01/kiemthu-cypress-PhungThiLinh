@@ -30,4 +30,5 @@ npm install cypress --save-dev
 npx cypress open
 
 ## Kết quả
+https://github.com/tinhlinh01/kiemthu-cypress-PhungThiLinh/blob/master/Recording%202025-05-31%20205640.mp4
 
